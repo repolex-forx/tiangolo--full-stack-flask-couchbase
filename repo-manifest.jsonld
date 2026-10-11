@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/full-stack-flask-couchbase/commit/4b74f124394cf658d4a51c277919e81dea7f999e",
       "git:hexsha": "4b74f124394cf658d4a51c277919e81dea7f999e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:48:31.178710+00:00"
     }
   ]
 }
