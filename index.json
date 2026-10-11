@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "full-stack-flask-couchbase",
+  "versions": [
+    {
+      "commit": "4b74f124394cf658d4a51c277919e81dea7f999e",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:48:31.179174+00:00"
+    }
+  ]
+}
